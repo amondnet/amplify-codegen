@@ -1,9 +1,9 @@
 {
-  "name": "@aws-amplify/appsync-modelgen-plugin",
+  "name": "@amondnet/appsync-modelgen-plugin",
   "version": "2.4.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws-amplify/amplify-codegen.git",
+    "url": "https://github.com/amondnet/amplify-codegen.git",
     "directory": "packages/appsync-modelgen-plugin"
   },
   "author": "Amazon Web Services",
